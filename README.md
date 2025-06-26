@@ -16,7 +16,7 @@ This leads to a powerful two-step workflow:
 
 Here's a high-level schematic:
 
-![Highlight Diagram](./9679d59c-b074-4e50-94cb-152094fd2c3b.png)
+![Highlight Diagram](blob:https://imgur.com/b677e77b-a995-4554-b9ae-400b70ca6710)
 
 ---
 
@@ -41,10 +41,9 @@ Here's a high-level schematic:
 
 ## 📂 Project Structure
 
-- `spectra_learning/` — CA-QNS scripts for both single- and two-qubit examples.  
-- `circuit_optimizer/` — Optimizer routines using learned spectra to construct noise-adapted gates.  
-- `demo/` — Illustrative notebooks: qubit decoherence predictions, identity gate fidelity restoration, and more.  
-- `figures/` — Key diagrams, schematics, and explanatory visuals.
+- `one-qubit Demo/` — Demonstration of single-qubit DISCO using fundamental digital QNS.  
+- `two-qubit Small Circuit` — Demonstration of small circuit (two-qubit, circuit layer-2) DISCO using fundamental digital QNS.  
+
 
 ---
 
