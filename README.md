@@ -16,7 +16,7 @@ This leads to a powerful two-step workflow:
 
 Here's a high-level schematic:
 
-![Highlight Diagram](blob:https://imgur.com/b677e77b-a995-4554-b9ae-400b70ca6710)
+![Highlight Diagram](https://i.imgur.com/UszQlQI.png)
 
 ---
 
